@@ -3,8 +3,7 @@ ntz is a commandline notes taker
 
 ## What is ntz?
 
-A command line note tool that doesn't involve terminal based editors, and does involve python and (SQLite or YAML).
-Your choice.
+A command line note tool that doesn't involve terminal based editors, and does involve python and YAML.
 
 ## Why?
 
@@ -17,7 +16,7 @@ They require interacting with vim or nano, and manual formatting.
 Yuck
 
 ntz takes command line arguments and builds tidy todo/remember lists using the inherent 
-neatness of SQLite (or YAML) and a little python magic. 
+neatness of YAML and a little python magic. 
 The result is a notes system that is easily manipulated both in the command line 
 using ntz' interface, or manually in the YAML file.
 
